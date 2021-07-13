@@ -16,7 +16,7 @@ template<class H, class... T> void DBG(H h, T... t) {
 	DBG(t...);
 }
 #ifdef _DEBUG
-#define dbg(...) cerr << "LINE(" << _LINE_ << ") -> [" << #_VA_ARGS_ << "]: [", DBG(_VA_ARGS_)
+#define dbg(...) cerr << "LINE(" << _LINE_ << ") -> [" << #_VA_ARGS_ << "]: [", DBG(_VA_ARGS_)ASDFGHJKUYJTHGREFWDADSafsgdhfgjhkjgfdsasdfhmj,mjbnvbcvxcz
 #else
 #define dbg(...) {}
 #endif
