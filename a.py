@@ -6,7 +6,7 @@ class SlowMatrix:
 		pass
 
 	## Matrix multiplication
-	# @param self SlowMatrix1
+	# @param self SlowMatrix1ascvgbhj
 	# @param mat2 SlowMatrix2
 	def __matmul__(self, mat2):
 		pass
